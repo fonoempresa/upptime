@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tienda.fonotrip.com.ico",
     "slug": "tienda-fonotrip",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 532,
     "timeDay": 628,
     "timeWeek": 532,
     "timeMonth": 532,
     "timeYear": 532,
-    "dailyMinutesDown": {
-      "2024-10-22": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fonoempresa",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fonoempresa.com.ico",
     "slug": "fonoempresa",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 333,
     "timeDay": 447,
     "timeWeek": 333,
     "timeMonth": 333,
     "timeYear": 333,
-    "dailyMinutesDown": {
-      "2024-10-22": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fonotrip",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fonotrip.com.ico",
     "slug": "fonotrip",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1538,
     "timeDay": 1592,
     "timeWeek": 1538,
     "timeMonth": 1538,
     "timeYear": 1538,
-    "dailyMinutesDown": {
-      "2024-10-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Periba",
@@ -65,18 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.periba.com.ar.ico",
     "slug": "periba",
     "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 260,
     "timeDay": 315,
     "timeWeek": 260,
     "timeMonth": 260,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2024-10-22": 6,
       "2024-10-18": 23
     }
   },
@@ -86,19 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.magnustech.net.ico",
     "slug": "magnustech",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3257,
     "timeDay": 4285,
     "timeWeek": 3257,
     "timeMonth": 3257,
     "timeYear": 3257,
-    "dailyMinutesDown": {
-      "2024-10-22": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MSGG2",
@@ -106,19 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 253,
     "timeDay": 312,
     "timeWeek": 253,
     "timeMonth": 253,
     "timeYear": 253,
-    "dailyMinutesDown": {
-      "2024-10-22": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
@@ -126,18 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.phloxnetworks.com.ico",
     "slug": "cdn",
     "status": "up",
-    "uptime": "44.98%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "44.98%",
-    "uptimeMonth": "44.98%",
-    "uptimeYear": "44.98%",
+    "uptime": "47.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "47.34%",
+    "uptimeMonth": "47.34%",
+    "uptimeYear": "47.34%",
     "time": 221,
     "timeDay": 346,
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-10-22": 4,
       "2024-10-20": 1369,
       "2024-10-19": 1440,
       "2024-10-18": 200
@@ -149,38 +137,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.magnustech.net.ico",
     "slug": "helpdesk-magnustech",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 387,
     "timeDay": 423,
     "timeWeek": 387,
     "timeMonth": 387,
     "timeYear": 387,
-    "dailyMinutesDown": {
-      "2024-10-22": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Helpdesk PHLOX",
     "url": "https://helpdesk.phlox.me",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.phlox.me.ico",
     "slug": "helpdesk-phlox",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 417,
-    "timeDay": 458,
-    "timeWeek": 417,
-    "timeMonth": 417,
-    "timeYear": 417,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 414,
+    "timeDay": 437,
+    "timeWeek": 414,
+    "timeMonth": 414,
+    "timeYear": 414,
     "dailyMinutesDown": {
-      "2024-10-22": 3
+      "2024-10-22": 0
     }
   }
 ]
