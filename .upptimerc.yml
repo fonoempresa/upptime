@@ -9,6 +9,8 @@ sites:
     url: https://fonoempresa.com
   - name: Fonotrip
     url: https://fonotrip.com
+  - name: Fonotrip Namecheap
+    url: https://fonotrip-268118.ingress-earth.ewp.live
   - name: Periba
     url: http://www.periba.com.ar
   - name: Magnustech
