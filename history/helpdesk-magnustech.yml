@@ -1,7 +1,7 @@
 url: https://helpdesk.magnustech.net
-status: up
-code: 200
-responseTime: 423
-lastUpdated: 2024-12-15T23:19:53.763Z
+status: down
+code: 502
+responseTime: 230
+lastUpdated: 2024-12-16T19:42:21.685Z
 startTime: 2024-10-18T20:39:51.006Z
 generator: Upptime <https://github.com/upptime/upptime>
