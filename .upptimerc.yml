@@ -5,10 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: Tienda FONOTRIP
     url: https://tienda.fonotrip.com
+  - name: Shop FONOTRIP
+    url: https://shop.fonotrip.com
   - name: Fonoempresa
     url: https://fonoempresa.com
   - name: Fonotrip
     url: https://fonotrip.com
+  - name: WAF FONOTRIP
+    url: https://www.fonotrip.com
   - name: Fonotrip Namecheap
     url: https://fonotrip.store
   - name: Periba
