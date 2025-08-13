@@ -13,8 +13,6 @@ sites:
     url: https://fonotrip.com
   - name: WAF FONOTRIP
     url: https://www.fonotrip.com
-  - name: Fonotrip Namecheap
-    url: https://fonotrip.store
   - name: Periba
     url: http://www.periba.com.ar
   - name: Magnustech
