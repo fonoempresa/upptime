@@ -1,7 +1,7 @@
 url: https://helpdesk.phlox.me
-status: up
-code: 200
-responseTime: 843
-lastUpdated: 2025-12-10T23:21:37.072Z
+status: down
+code: 502
+responseTime: 449
+lastUpdated: 2025-12-11T14:40:34.229Z
 startTime: 2024-10-18T20:39:51.644Z
 generator: Upptime <https://github.com/upptime/upptime>
