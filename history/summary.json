@@ -430,17 +430,17 @@
     "url": "https://helpdesk.phlox.me",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.phlox.me.ico",
     "slug": "helpdesk-phlox",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
-    "time": 737,
-    "timeDay": 396,
-    "timeWeek": 591,
-    "timeMonth": 676,
-    "timeYear": 733,
+    "time": 736,
+    "timeDay": 339,
+    "timeWeek": 552,
+    "timeMonth": 663,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2025-05-28": 15,
       "2025-06-08": 228,
@@ -465,7 +465,8 @@
       "2026-03-30": 963,
       "2026-03-29": 1440,
       "2026-03-28": 24,
-      "2026-04-20": 86
+      "2026-04-20": 86,
+      "2026-05-24": 0
     }
   }
 ]
