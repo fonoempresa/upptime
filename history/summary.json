@@ -381,13 +381,13 @@
     "url": "https://helpdesk.magnustech.net",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.magnustech.net.ico",
     "slug": "helpdesk-magnustech",
-    "status": "up",
+    "status": "down",
     "uptime": "96.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "94.47%",
-    "time": 512,
+    "time": 513,
     "timeDay": 373,
     "timeWeek": 390,
     "timeMonth": 396,
@@ -435,7 +435,8 @@
       "2026-03-29": 426,
       "2026-04-15": 67,
       "2026-04-20": 86,
-      "2026-06-08": 128
+      "2026-06-08": 128,
+      "2026-06-16": 0
     }
   },
   {
