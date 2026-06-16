@@ -17,6 +17,8 @@ sites:
     url: https://www.magnustech.net
   - name: MSGG2
     url: https://msggw2.fonoempresa.com
+  - name: API2CALL
+    url: https://api2call.fonoempresa.com
   - name: CDN
     url: https://cdn.phloxnetworks.com/IMG_2857.webp
   - name: Helpdesk Magnustech
