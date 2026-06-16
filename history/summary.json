@@ -14,7 +14,7 @@
     "timeDay": 812,
     "timeWeek": 682,
     "timeMonth": 733,
-    "timeYear": 736,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2025-07-23": 526,
       "2025-07-24": 579,
@@ -136,7 +136,7 @@
     "timeDay": 408,
     "timeWeek": 430,
     "timeMonth": 393,
-    "timeYear": 987,
+    "timeYear": 986,
     "dailyMinutesDown": {
       "2025-07-19": 336,
       "2025-07-20": 794,
@@ -176,7 +176,7 @@
     "timeDay": 689,
     "timeWeek": 557,
     "timeMonth": 546,
-    "timeYear": 1256,
+    "timeYear": 1255,
     "dailyMinutesDown": {
       "2025-06-24": 1254,
       "2025-06-23": 1440,
@@ -255,7 +255,7 @@
     "timeDay": 197,
     "timeWeek": 227,
     "timeMonth": 214,
-    "timeYear": 2428,
+    "timeYear": 2425,
     "dailyMinutesDown": {
       "2025-06-24": 1254,
       "2025-06-23": 1440,
@@ -381,17 +381,17 @@
     "url": "https://helpdesk.magnustech.net",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.magnustech.net.ico",
     "slug": "helpdesk-magnustech",
-    "status": "down",
-    "uptime": "96.57%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "94.47%",
+    "status": "up",
+    "uptime": "96.56%",
+    "uptimeDay": "94.26%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "94.45%",
     "time": 513,
-    "timeDay": 373,
-    "timeWeek": 390,
-    "timeMonth": 396,
-    "timeYear": 525,
+    "timeDay": 441,
+    "timeWeek": 411,
+    "timeMonth": 401,
+    "timeYear": 526,
     "dailyMinutesDown": {
       "2025-06-19": 25,
       "2025-07-02": 16,
@@ -436,7 +436,7 @@
       "2026-04-15": 67,
       "2026-04-20": 86,
       "2026-06-08": 128,
-      "2026-06-16": 0
+      "2026-06-16": 83
     }
   },
   {
