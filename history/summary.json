@@ -4,20 +4,19 @@
     "url": "https://shop.fonotrip.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
-    "status": "up",
-    "uptime": "96.94%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "95.06%",
+    "status": "down",
+    "uptime": "96.96%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "95.16%",
     "uptimeMonth": "97.41%",
-    "uptimeYear": "96.47%",
+    "uptimeYear": "96.48%",
     "time": 783,
     "timeDay": 687,
     "timeWeek": 718,
     "timeMonth": 733,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2025-07-24": 579,
-      "2025-07-23": 4,
+      "2025-07-24": 516,
       "2025-08-05": 16,
       "2025-09-23": 33,
       "2025-10-30": 21,
@@ -95,7 +94,8 @@
       "2026-06-24": 146,
       "2026-06-25": 156,
       "2026-06-28": 130,
-      "2026-06-30": 65
+      "2026-06-30": 65,
+      "2026-07-01": 0
     }
   },
   {
