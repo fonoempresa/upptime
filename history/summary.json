@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
     "status": "down",
-    "uptime": "97.02%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "96.81%",
-    "uptimeYear": "96.47%",
+    "uptime": "97.00%",
+    "uptimeDay": "89.35%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "96.59%",
+    "uptimeYear": "96.45%",
     "time": 783,
     "timeDay": 616,
     "timeWeek": 721,
-    "timeMonth": 721,
+    "timeMonth": 725,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2025-07-24": 70,
@@ -100,7 +100,7 @@
       "2026-07-07": 19,
       "2026-07-08": 196,
       "2026-07-10": 57,
-      "2026-07-11": 0
+      "2026-07-11": 97
     }
   },
   {
@@ -147,7 +147,7 @@
     "time": 985,
     "timeDay": 429,
     "timeWeek": 436,
-    "timeMonth": 430,
+    "timeMonth": 432,
     "timeYear": 942,
     "dailyMinutesDown": {
       "2025-07-19": 336,
@@ -187,7 +187,7 @@
     "time": 1265,
     "timeDay": 484,
     "timeWeek": 592,
-    "timeMonth": 682,
+    "timeMonth": 692,
     "timeYear": 1219,
     "dailyMinutesDown": {
       "2025-07-19": 333,
@@ -233,7 +233,7 @@
     "time": 425,
     "timeDay": 337,
     "timeWeek": 405,
-    "timeMonth": 528,
+    "timeMonth": 535,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2025-09-01": 18,
@@ -258,7 +258,7 @@
     "time": 2610,
     "timeDay": 283,
     "timeWeek": 328,
-    "timeMonth": 237,
+    "timeMonth": 240,
     "timeYear": 2242,
     "dailyMinutesDown": {
       "2025-07-19": 25,
@@ -288,7 +288,7 @@
     "time": 388,
     "timeDay": 279,
     "timeWeek": 309,
-    "timeMonth": 443,
+    "timeMonth": 449,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2025-07-16": 767,
@@ -344,7 +344,7 @@
     "time": 372,
     "timeDay": 246,
     "timeWeek": 325,
-    "timeMonth": 425,
+    "timeMonth": 432,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2025-08-20": 22,
@@ -386,7 +386,7 @@
     "time": 514,
     "timeDay": 422,
     "timeWeek": 523,
-    "timeMonth": 443,
+    "timeMonth": 448,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2025-07-21": 48,
@@ -447,7 +447,7 @@
     "time": 725,
     "timeDay": 631,
     "timeWeek": 692,
-    "timeMonth": 751,
+    "timeMonth": 757,
     "timeYear": 734,
     "dailyMinutesDown": {
       "2025-07-31": 51,
