@@ -144,7 +144,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.79%",
     "time": 939,
     "timeDay": 512,
     "timeWeek": 432,
@@ -179,7 +179,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.39%",
     "time": 1200,
     "timeDay": 707,
     "timeWeek": 528,
@@ -365,10 +365,10 @@
     "url": "https://helpdesk.magnustech.net",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.magnustech.net.ico",
     "slug": "helpdesk-magnustech",
-    "status": "up",
+    "status": "down",
     "uptime": "96.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.47%",
     "time": 509,
@@ -417,7 +417,8 @@
       "2026-04-15": 67,
       "2026-04-20": 86,
       "2026-06-08": 128,
-      "2026-06-16": 83
+      "2026-06-16": 83,
+      "2026-07-23": 1
     }
   },
   {
