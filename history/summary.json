@@ -266,11 +266,11 @@
     "url": "https://msggw2.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
-    "status": "up",
+    "status": "down",
     "uptime": "97.96%",
-    "uptimeDay": "60.17%",
-    "uptimeWeek": "33.98%",
-    "uptimeMonth": "83.62%",
+    "uptimeDay": "59.80%",
+    "uptimeWeek": "33.93%",
+    "uptimeMonth": "83.61%",
     "uptimeYear": "96.44%",
     "time": 379,
     "timeDay": 230,
@@ -305,7 +305,7 @@
       "2026-09-05": 943,
       "2026-09-06": 626,
       "2026-09-07": 560,
-      "2026-09-08": 60
+      "2026-09-08": 65
     }
   },
   {
@@ -313,10 +313,10 @@
     "url": "https://api2call.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
-    "status": "up",
+    "status": "down",
     "uptime": "94.09%",
-    "uptimeDay": "61.17%",
-    "uptimeWeek": "34.80%",
+    "uptimeDay": "61.15%",
+    "uptimeWeek": "34.79%",
     "uptimeMonth": "83.83%",
     "uptimeYear": "94.09%",
     "time": 308,
