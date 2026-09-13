@@ -4,19 +4,19 @@
     "url": "https://shop.fonotrip.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
-    "status": "up",
-    "uptime": "97.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "96.28%",
+    "status": "down",
+    "uptime": "97.27%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "96.29%",
     "time": 773,
     "timeDay": 595,
     "timeWeek": 783,
     "timeMonth": 1169,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2026-03-01": 68,
+      "2026-03-01": 43,
       "2026-03-02": 168,
       "2026-03-03": 86,
       "2026-03-04": 36,
@@ -103,7 +103,8 @@
       "2026-08-21": 130,
       "2026-08-24": 32,
       "2026-08-25": 20,
-      "2026-09-11": 130
+      "2026-09-11": 130,
+      "2026-09-13": 10
     }
   },
   {
@@ -267,11 +268,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
     "status": "down",
-    "uptime": "97.44%",
-    "uptimeDay": "23.46%",
-    "uptimeWeek": "34.70%",
-    "uptimeMonth": "72.53%",
-    "uptimeYear": "95.42%",
+    "uptime": "97.41%",
+    "uptimeDay": "18.69%",
+    "uptimeWeek": "32.15%",
+    "uptimeMonth": "71.83%",
+    "uptimeYear": "95.36%",
     "time": 381,
     "timeDay": 212,
     "timeWeek": 292,
@@ -310,7 +311,7 @@
       "2026-09-10": 1238,
       "2026-09-11": 904,
       "2026-09-12": 1146,
-      "2026-09-13": 46
+      "2026-09-13": 355
     }
   },
   {
@@ -319,11 +320,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
     "status": "down",
-    "uptime": "90.28%",
-    "uptimeDay": "24.13%",
-    "uptimeWeek": "35.47%",
-    "uptimeMonth": "72.85%",
-    "uptimeYear": "90.28%",
+    "uptime": "90.07%",
+    "uptimeDay": "19.02%",
+    "uptimeWeek": "32.87%",
+    "uptimeMonth": "72.15%",
+    "uptimeYear": "90.07%",
     "time": 305,
     "timeDay": 286,
     "timeWeek": 269,
@@ -346,7 +347,7 @@
       "2026-09-10": 1228,
       "2026-09-11": 899,
       "2026-09-12": 1141,
-      "2026-09-13": 41
+      "2026-09-13": 350
     }
   },
   {
