@@ -268,14 +268,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
     "status": "down",
-    "uptime": "96.85%",
-    "uptimeDay": "29.23%",
-    "uptimeWeek": "27.50%",
-    "uptimeMonth": "58.41%",
-    "uptimeYear": "94.24%",
+    "uptime": "96.84%",
+    "uptimeDay": "25.45%",
+    "uptimeWeek": "26.95%",
+    "uptimeMonth": "58.24%",
+    "uptimeYear": "94.23%",
     "time": 380,
-    "timeDay": 249,
-    "timeWeek": 337,
+    "timeDay": 310,
+    "timeWeek": 328,
     "timeMonth": 332,
     "timeYear": 355,
     "dailyMinutesDown": {
@@ -317,7 +317,7 @@
       "2026-09-15": 1359,
       "2026-09-17": 804,
       "2026-09-18": 1086,
-      "2026-09-19": 5
+      "2026-09-19": 78
     }
   },
   {
@@ -326,14 +326,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
     "status": "down",
-    "uptime": "86.37%",
-    "uptimeDay": "29.90%",
-    "uptimeWeek": "28.12%",
-    "uptimeMonth": "58.85%",
-    "uptimeYear": "86.37%",
+    "uptime": "86.32%",
+    "uptimeDay": "26.12%",
+    "uptimeWeek": "27.58%",
+    "uptimeMonth": "58.68%",
+    "uptimeYear": "86.32%",
     "time": 305,
-    "timeDay": 277,
-    "timeWeek": 313,
+    "timeDay": 294,
+    "timeWeek": 305,
     "timeMonth": 302,
     "timeYear": 305,
     "dailyMinutesDown": {
@@ -359,7 +359,7 @@
       "2026-09-15": 1354,
       "2026-09-17": 789,
       "2026-09-18": 1081,
-      "2026-09-19": 0
+      "2026-09-19": 74
     }
   },
   {
@@ -374,7 +374,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.91%",
     "time": 372,
-    "timeDay": 328,
+    "timeDay": 398,
     "timeWeek": 360,
     "timeMonth": 351,
     "timeYear": 366,
@@ -414,7 +414,7 @@
     "uptimeMonth": "99.54%",
     "uptimeYear": "94.43%",
     "time": 512,
-    "timeDay": 354,
+    "timeDay": 409,
     "timeWeek": 394,
     "timeMonth": 426,
     "timeYear": 536,
@@ -472,7 +472,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.55%",
     "time": 735,
-    "timeDay": 743,
+    "timeDay": 958,
     "timeWeek": 779,
     "timeMonth": 805,
     "timeYear": 739,
