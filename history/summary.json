@@ -249,7 +249,7 @@
     "timeDay": 475,
     "timeWeek": 267,
     "timeMonth": 508,
-    "timeYear": 1544,
+    "timeYear": 1490,
     "dailyMinutesDown": {
       "2025-12-15": 33,
       "2025-12-16": 104,
@@ -266,17 +266,17 @@
     "url": "https://msggw2.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
-    "status": "down",
-    "uptime": "96.69%",
-    "uptimeDay": "30.11%",
-    "uptimeWeek": "28.08%",
-    "uptimeMonth": "54.52%",
-    "uptimeYear": "93.92%",
+    "status": "up",
+    "uptime": "96.67%",
+    "uptimeDay": "30.14%",
+    "uptimeWeek": "26.89%",
+    "uptimeMonth": "54.23%",
+    "uptimeYear": "93.89%",
     "time": 378,
-    "timeDay": 264,
-    "timeWeek": 316,
-    "timeMonth": 325,
-    "timeYear": 354,
+    "timeDay": 251,
+    "timeWeek": 312,
+    "timeMonth": 323,
+    "timeYear": 353,
     "dailyMinutesDown": {
       "2026-02-09": 1224,
       "2026-02-08": 1440,
@@ -317,7 +317,7 @@
       "2026-09-17": 804,
       "2026-09-18": 1086,
       "2026-09-19": 994,
-      "2026-09-20": 735
+      "2026-09-20": 864
     }
   },
   {
@@ -325,17 +325,17 @@
     "url": "https://api2call.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
-    "status": "down",
-    "uptime": "85.39%",
-    "uptimeDay": "31.12%",
-    "uptimeWeek": "28.80%",
-    "uptimeMonth": "55.01%",
-    "uptimeYear": "85.39%",
-    "time": 302,
-    "timeDay": 203,
-    "timeWeek": 283,
-    "timeMonth": 294,
-    "timeYear": 302,
+    "status": "up",
+    "uptime": "85.31%",
+    "uptimeDay": "31.15%",
+    "uptimeWeek": "27.61%",
+    "uptimeMonth": "54.71%",
+    "uptimeYear": "85.31%",
+    "time": 301,
+    "timeDay": 213,
+    "timeWeek": 286,
+    "timeMonth": 293,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2026-08-11": 5,
       "2026-08-10": 472,
@@ -360,7 +360,7 @@
       "2026-09-17": 789,
       "2026-09-18": 1081,
       "2026-09-19": 979,
-      "2026-09-20": 720
+      "2026-09-20": 849
     }
   },
   {
