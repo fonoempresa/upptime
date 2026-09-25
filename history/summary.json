@@ -4,17 +4,17 @@
     "url": "https://shop.fonotrip.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
-    "status": "down",
-    "uptime": "96.94%",
-    "uptimeDay": "23.30%",
-    "uptimeWeek": "70.66%",
-    "uptimeMonth": "92.35%",
-    "uptimeYear": "95.75%",
+    "status": "up",
+    "uptime": "96.88%",
+    "uptimeDay": "5.31%",
+    "uptimeWeek": "66.05%",
+    "uptimeMonth": "91.28%",
+    "uptimeYear": "95.66%",
     "time": 773,
-    "timeDay": 704,
-    "timeWeek": 608,
-    "timeMonth": 845,
-    "timeYear": 791,
+    "timeDay": 367,
+    "timeWeek": 584,
+    "timeMonth": 832,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2026-03-09": 804,
       "2026-03-08": 1440,
@@ -104,7 +104,7 @@
       "2026-09-22": 699,
       "2026-09-23": 858,
       "2026-09-24": 1032,
-      "2026-09-25": 161
+      "2026-09-25": 626
     }
   },
   {
@@ -264,15 +264,15 @@
     "url": "https://msggw2.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
-    "status": "down",
-    "uptime": "96.29%",
-    "uptimeDay": "23.64%",
-    "uptimeWeek": "31.52%",
-    "uptimeMonth": "45.03%",
-    "uptimeYear": "93.12%",
+    "status": "up",
+    "uptime": "96.25%",
+    "uptimeDay": "5.64%",
+    "uptimeWeek": "29.21%",
+    "uptimeMonth": "43.97%",
+    "uptimeYear": "93.03%",
     "time": 370,
-    "timeDay": 538,
-    "timeWeek": 308,
+    "timeDay": 334,
+    "timeWeek": 310,
     "timeMonth": 324,
     "timeYear": 353,
     "dailyMinutesDown": {
@@ -320,7 +320,7 @@
       "2026-09-22": 689,
       "2026-09-23": 849,
       "2026-09-24": 1022,
-      "2026-09-25": 161
+      "2026-09-25": 627
     }
   },
   {
@@ -328,17 +328,17 @@
     "url": "https://api2call.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
-    "status": "down",
-    "uptime": "83.24%",
-    "uptimeDay": "33.35%",
-    "uptimeWeek": "33.58%",
-    "uptimeMonth": "45.90%",
-    "uptimeYear": "83.24%",
-    "time": 376,
-    "timeDay": 5149,
-    "timeWeek": 929,
-    "timeMonth": 455,
-    "timeYear": 376,
+    "status": "up",
+    "uptime": "82.97%",
+    "uptimeDay": "15.36%",
+    "uptimeWeek": "31.22%",
+    "uptimeMonth": "44.84%",
+    "uptimeYear": "82.97%",
+    "time": 374,
+    "timeDay": 5015,
+    "timeWeek": 881,
+    "timeMonth": 450,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2026-08-11": 5,
       "2026-08-10": 472,
@@ -368,7 +368,7 @@
       "2026-09-22": 680,
       "2026-09-23": 840,
       "2026-09-24": 944,
-      "2026-09-25": 96
+      "2026-09-25": 561
     }
   },
   {
