@@ -4,16 +4,16 @@
     "url": "https://shop.fonotrip.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
-    "status": "down",
-    "uptime": "96.52%",
-    "uptimeDay": "52.09%",
-    "uptimeWeek": "24.03%",
-    "uptimeMonth": "67.12%",
-    "uptimeYear": "95.05%",
-    "time": 791,
-    "timeDay": 598,
-    "timeWeek": 516,
-    "timeMonth": 942,
+    "status": "up",
+    "uptime": "96.47%",
+    "uptimeDay": "38.29%",
+    "uptimeWeek": "19.95%",
+    "uptimeMonth": "66.15%",
+    "uptimeYear": "94.97%",
+    "time": 790,
+    "timeDay": 555,
+    "timeWeek": 512,
+    "timeMonth": 930,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2026-04-06": 172,
@@ -101,7 +101,7 @@
       "2026-10-04": 1096,
       "2026-10-06": 737,
       "2026-10-05": 1440,
-      "2026-10-07": 140
+      "2026-10-07": 561
     }
   },
   {
@@ -270,11 +270,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
     "status": "down",
-    "uptime": "95.25%",
-    "uptimeDay": "33.62%",
-    "uptimeWeek": "21.68%",
-    "uptimeMonth": "33.29%",
-    "uptimeYear": "90.93%",
+    "uptime": "95.21%",
+    "uptimeDay": "18.82%",
+    "uptimeWeek": "17.46%",
+    "uptimeMonth": "32.30%",
+    "uptimeYear": "90.85%",
     "time": 363,
     "timeDay": 314,
     "timeWeek": 302,
@@ -337,7 +337,7 @@
       "2026-10-04": 1092,
       "2026-10-06": 1007,
       "2026-10-05": 1440,
-      "2026-10-07": 135
+      "2026-10-07": 566
     }
   },
   {
@@ -346,11 +346,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
     "status": "down",
-    "uptime": "77.98%",
-    "uptimeDay": "34.29%",
-    "uptimeWeek": "22.07%",
-    "uptimeMonth": "34.13%",
-    "uptimeYear": "77.98%",
+    "uptime": "77.78%",
+    "uptimeDay": "19.16%",
+    "uptimeWeek": "17.80%",
+    "uptimeMonth": "33.15%",
+    "uptimeYear": "77.78%",
     "time": 363,
     "timeDay": 298,
     "timeWeek": 269,
@@ -397,7 +397,7 @@
       "2026-10-04": 1087,
       "2026-10-06": 1002,
       "2026-10-05": 1440,
-      "2026-10-07": 130
+      "2026-10-07": 561
     }
   },
   {
