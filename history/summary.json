@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
     "status": "down",
-    "uptime": "96.43%",
-    "uptimeDay": "40.40%",
+    "uptime": "96.42%",
+    "uptimeDay": "38.26%",
     "uptimeWeek": "23.31%",
-    "uptimeMonth": "65.18%",
+    "uptimeMonth": "65.11%",
     "uptimeYear": "94.90%",
     "time": 791,
     "timeDay": 604,
@@ -102,7 +102,7 @@
       "2026-10-06": 737,
       "2026-10-05": 1440,
       "2026-10-07": 822,
-      "2026-10-08": 166
+      "2026-10-08": 197
     }
   },
   {
@@ -271,8 +271,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
     "status": "down",
-    "uptime": "95.14%",
-    "uptimeDay": "16.67%",
+    "uptime": "95.13%",
+    "uptimeDay": "14.53%",
     "uptimeWeek": "17.43%",
     "uptimeMonth": "31.50%",
     "uptimeYear": "90.70%",
@@ -339,7 +339,7 @@
       "2026-10-06": 1007,
       "2026-10-05": 1440,
       "2026-10-07": 1169,
-      "2026-10-08": 161
+      "2026-10-08": 192
     }
   },
   {
@@ -348,11 +348,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
     "status": "down",
-    "uptime": "77.42%",
-    "uptimeDay": "17.34%",
+    "uptime": "77.41%",
+    "uptimeDay": "15.20%",
     "uptimeWeek": "17.77%",
     "uptimeMonth": "32.32%",
-    "uptimeYear": "77.42%",
+    "uptimeYear": "77.41%",
     "time": 363,
     "timeDay": 380,
     "timeWeek": 281,
@@ -400,7 +400,7 @@
       "2026-10-06": 1002,
       "2026-10-05": 1440,
       "2026-10-07": 1164,
-      "2026-10-08": 156
+      "2026-10-08": 187
     }
   },
   {
