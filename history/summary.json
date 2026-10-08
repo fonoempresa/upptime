@@ -4,17 +4,17 @@
     "url": "https://shop.fonotrip.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
-    "status": "down",
-    "uptime": "96.42%",
-    "uptimeDay": "38.26%",
+    "status": "up",
+    "uptime": "96.37%",
+    "uptimeDay": "26.32%",
     "uptimeWeek": "23.31%",
-    "uptimeMonth": "65.11%",
-    "uptimeYear": "94.90%",
+    "uptimeMonth": "64.23%",
+    "uptimeYear": "94.83%",
     "time": 791,
-    "timeDay": 604,
-    "timeWeek": 508,
-    "timeMonth": 930,
-    "timeYear": 801,
+    "timeDay": 626,
+    "timeWeek": 522,
+    "timeMonth": 924,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2026-04-06": 78,
       "2026-04-07": 799,
@@ -102,7 +102,7 @@
       "2026-10-06": 737,
       "2026-10-05": 1440,
       "2026-10-07": 822,
-      "2026-10-08": 197
+      "2026-10-08": 581
     }
   },
   {
@@ -176,7 +176,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fonotrip.com.ico",
     "slug": "waf-fonotrip",
     "status": "up",
-    "uptime": "96.99%",
+    "uptime": "97.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
@@ -270,15 +270,15 @@
     "url": "https://msggw2.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
-    "status": "down",
-    "uptime": "95.13%",
-    "uptimeDay": "14.53%",
+    "status": "up",
+    "uptime": "95.10%",
+    "uptimeDay": "2.28%",
     "uptimeWeek": "17.43%",
     "uptimeMonth": "31.50%",
-    "uptimeYear": "90.70%",
+    "uptimeYear": "90.63%",
     "time": 363,
-    "timeDay": 318,
-    "timeWeek": 303,
+    "timeDay": 299,
+    "timeWeek": 301,
     "timeMonth": 316,
     "timeYear": 352,
     "dailyMinutesDown": {
@@ -339,7 +339,7 @@
       "2026-10-06": 1007,
       "2026-10-05": 1440,
       "2026-10-07": 1169,
-      "2026-10-08": 192
+      "2026-10-08": 576
     }
   },
   {
@@ -347,16 +347,16 @@
     "url": "https://api2call.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
-    "status": "down",
-    "uptime": "77.41%",
-    "uptimeDay": "15.20%",
+    "status": "up",
+    "uptime": "77.22%",
+    "uptimeDay": "2.61%",
     "uptimeWeek": "17.77%",
     "uptimeMonth": "32.32%",
-    "uptimeYear": "77.41%",
+    "uptimeYear": "77.22%",
     "time": 363,
-    "timeDay": 380,
-    "timeWeek": 281,
-    "timeMonth": 466,
+    "timeDay": 373,
+    "timeWeek": 289,
+    "timeMonth": 470,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2026-08-11": 5,
@@ -400,7 +400,7 @@
       "2026-10-06": 1002,
       "2026-10-05": 1440,
       "2026-10-07": 1164,
-      "2026-10-08": 187
+      "2026-10-08": 571
     }
   },
   {
