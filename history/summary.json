@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
     "status": "down",
-    "uptime": "96.06%",
+    "uptime": "96.05%",
     "uptimeDay": "46.43%",
-    "uptimeWeek": "27.46%",
-    "uptimeMonth": "57.97%",
-    "uptimeYear": "94.35%",
+    "uptimeWeek": "27.00%",
+    "uptimeMonth": "57.86%",
+    "uptimeYear": "94.34%",
     "time": 791,
     "timeDay": 547,
-    "timeWeek": 572,
+    "timeWeek": 602,
     "timeMonth": 911,
     "timeYear": 798,
     "dailyMinutesDown": {
@@ -104,7 +104,7 @@
       "2026-10-08": 974,
       "2026-10-10": 801,
       "2026-10-09": 1440,
-      "2026-10-11": 111
+      "2026-10-11": 158
     }
   },
   {
@@ -120,7 +120,7 @@
     "uptimeYear": "98.93%",
     "time": 705,
     "timeDay": 1029,
-    "timeWeek": 961,
+    "timeWeek": 1009,
     "timeMonth": 909,
     "timeYear": 765,
     "dailyMinutesDown": {
@@ -151,7 +151,7 @@
     "uptimeYear": "99.01%",
     "time": 786,
     "timeDay": 383,
-    "timeWeek": 440,
+    "timeWeek": 453,
     "timeMonth": 448,
     "timeYear": 661,
     "dailyMinutesDown": {
@@ -184,7 +184,7 @@
     "uptimeYear": "98.61%",
     "time": 1092,
     "timeDay": 525,
-    "timeWeek": 631,
+    "timeWeek": 684,
     "timeMonth": 605,
     "timeYear": 970,
     "dailyMinutesDown": {
@@ -224,7 +224,7 @@
     "uptimeYear": "99.65%",
     "time": 443,
     "timeDay": 398,
-    "timeWeek": 463,
+    "timeWeek": 474,
     "timeMonth": 463,
     "timeYear": 465,
     "dailyMinutesDown": {
@@ -252,7 +252,7 @@
     "uptimeYear": "99.21%",
     "time": 1976,
     "timeDay": 144,
-    "timeWeek": 192,
+    "timeWeek": 194,
     "timeMonth": 224,
     "timeYear": 1320,
     "dailyMinutesDown": {
@@ -272,14 +272,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
     "status": "down",
-    "uptime": "94.79%",
+    "uptime": "94.78%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.85%",
-    "uptimeMonth": "29.93%",
-    "uptimeYear": "89.98%",
+    "uptimeWeek": "14.39%",
+    "uptimeMonth": "29.82%",
+    "uptimeYear": "89.97%",
     "time": 376,
     "timeDay": 0,
-    "timeWeek": 316,
+    "timeWeek": 327,
     "timeMonth": 319,
     "timeYear": 351,
     "dailyMinutesDown": {
@@ -341,7 +341,7 @@
       "2026-10-05": 1440,
       "2026-10-07": 1169,
       "2026-10-08": 964,
-      "2026-10-11": 139,
+      "2026-10-11": 186,
       "2026-10-10": 1440,
       "2026-10-09": 1440
     }
@@ -352,14 +352,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
     "status": "down",
-    "uptime": "75.72%",
+    "uptime": "75.69%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "15.09%",
-    "uptimeMonth": "30.70%",
-    "uptimeYear": "75.72%",
+    "uptimeWeek": "14.62%",
+    "uptimeMonth": "30.59%",
+    "uptimeYear": "75.69%",
     "time": 363,
     "timeDay": 0,
-    "timeWeek": 321,
+    "timeWeek": 361,
     "timeMonth": 500,
     "timeYear": 363,
     "dailyMinutesDown": {
@@ -405,7 +405,7 @@
       "2026-10-05": 1440,
       "2026-10-07": 1164,
       "2026-10-08": 954,
-      "2026-10-11": 139,
+      "2026-10-11": 186,
       "2026-10-10": 1440,
       "2026-10-09": 1440
     }
@@ -422,8 +422,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.91%",
     "time": 362,
-    "timeDay": 241,
-    "timeWeek": 331,
+    "timeDay": 276,
+    "timeWeek": 341,
     "timeMonth": 345,
     "timeYear": 365,
     "dailyMinutesDown": {
@@ -462,8 +462,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.43%",
     "time": 586,
-    "timeDay": 369,
-    "timeWeek": 876,
+    "timeDay": 421,
+    "timeWeek": 950,
     "timeMonth": 1857,
     "timeYear": 642,
     "dailyMinutesDown": {
@@ -519,8 +519,8 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "98.53%",
     "time": 725,
-    "timeDay": 645,
-    "timeWeek": 684,
+    "timeDay": 593,
+    "timeWeek": 695,
     "timeMonth": 688,
     "timeYear": 733,
     "dailyMinutesDown": {
