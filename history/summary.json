@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
     "status": "down",
-    "uptime": "95.99%",
+    "uptime": "95.98%",
     "uptimeDay": "13.73%",
     "uptimeWeek": "26.32%",
-    "uptimeMonth": "55.40%",
-    "uptimeYear": "94.23%",
+    "uptimeMonth": "55.27%",
+    "uptimeYear": "94.22%",
     "time": 790,
     "timeDay": 357,
     "timeWeek": 553,
@@ -104,7 +104,7 @@
       "2026-10-10": 801,
       "2026-10-09": 1440,
       "2026-10-11": 1355,
-      "2026-10-12": 10
+      "2026-10-12": 68
     }
   },
   {
@@ -272,11 +272,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
     "status": "down",
-    "uptime": "94.68%",
+    "uptime": "94.67%",
     "uptimeDay": "14.06%",
     "uptimeWeek": "13.71%",
-    "uptimeMonth": "29.30%",
-    "uptimeYear": "89.74%",
+    "uptimeMonth": "29.17%",
+    "uptimeYear": "89.73%",
     "time": 376,
     "timeDay": 268,
     "timeWeek": 307,
@@ -344,7 +344,7 @@
       "2026-10-11": 1384,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
-      "2026-10-12": 5
+      "2026-10-12": 63
     }
   },
   {
@@ -353,11 +353,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
     "status": "down",
-    "uptime": "75.19%",
+    "uptime": "75.16%",
     "uptimeDay": "14.40%",
     "uptimeWeek": "13.95%",
-    "uptimeMonth": "30.07%",
-    "uptimeYear": "75.19%",
+    "uptimeMonth": "29.94%",
+    "uptimeYear": "75.16%",
     "time": 362,
     "timeDay": 227,
     "timeWeek": 316,
@@ -409,7 +409,7 @@
       "2026-10-11": 1384,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
-      "2026-10-12": 1
+      "2026-10-12": 58
     }
   },
   {
