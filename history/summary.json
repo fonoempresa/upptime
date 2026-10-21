@@ -4,17 +4,17 @@
     "url": "https://shop.fonotrip.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
-    "status": "down",
-    "uptime": "94.65%",
-    "uptimeDay": "46.20%",
+    "status": "up",
+    "uptime": "94.60%",
+    "uptimeDay": "21.95%",
     "uptimeWeek": "23.21%",
-    "uptimeMonth": "29.68%",
-    "uptimeYear": "92.17%",
+    "uptimeMonth": "29.30%",
+    "uptimeYear": "92.10%",
     "time": 778,
-    "timeDay": 588,
-    "timeWeek": 557,
-    "timeMonth": 844,
-    "timeYear": 786,
+    "timeDay": 574,
+    "timeWeek": 556,
+    "timeMonth": 843,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2026-04-24": 49,
       "2026-04-26": 41,
@@ -103,7 +103,7 @@
       "2026-10-17": 1365,
       "2026-10-19": 1037,
       "2026-10-20": 664,
-      "2026-10-21": 728
+      "2026-10-21": 1098
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeDay": 465,
     "timeWeek": 399,
     "timeMonth": 435,
-    "timeYear": 637,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2025-10-29": 38,
       "2025-10-30": 21,
@@ -256,7 +256,7 @@
     "timeDay": 461,
     "timeWeek": 248,
     "timeMonth": 215,
-    "timeYear": 1224,
+    "timeYear": 1216,
     "dailyMinutesDown": {
       "2025-12-15": 33,
       "2025-12-16": 104,
@@ -273,17 +273,17 @@
     "url": "https://msggw2.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
-    "status": "down",
-    "uptime": "93.81%",
-    "uptimeDay": "47.19%",
-    "uptimeWeek": "39.79%",
-    "uptimeMonth": "30.07%",
-    "uptimeYear": "87.87%",
+    "status": "up",
+    "uptime": "93.78%",
+    "uptimeDay": "22.64%",
+    "uptimeWeek": "39.80%",
+    "uptimeMonth": "29.89%",
+    "uptimeYear": "87.80%",
     "time": 374,
-    "timeDay": 294,
-    "timeWeek": 297,
+    "timeDay": 297,
+    "timeWeek": 298,
     "timeMonth": 312,
-    "timeYear": 350,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2026-02-09": 1224,
       "2026-02-08": 1440,
@@ -355,7 +355,7 @@
       "2026-10-17": 1360,
       "2026-10-19": 193,
       "2026-10-20": 655,
-      "2026-10-21": 720
+      "2026-10-21": 1089
     }
   },
   {
@@ -363,17 +363,17 @@
     "url": "https://api2call.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
-    "status": "down",
-    "uptime": "70.82%",
-    "uptimeDay": "48.20%",
+    "status": "up",
+    "uptime": "70.67%",
+    "uptimeDay": "23.32%",
     "uptimeWeek": "24.08%",
-    "uptimeMonth": "27.00%",
-    "uptimeYear": "70.82%",
-    "time": 361,
-    "timeDay": 318,
-    "timeWeek": 348,
-    "timeMonth": 555,
-    "timeYear": 361,
+    "uptimeMonth": "26.82%",
+    "uptimeYear": "70.67%",
+    "time": 360,
+    "timeDay": 293,
+    "timeWeek": 338,
+    "timeMonth": 553,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2026-08-11": 5,
       "2026-08-10": 472,
@@ -429,7 +429,7 @@
       "2026-10-17": 1355,
       "2026-10-19": 1028,
       "2026-10-20": 645,
-      "2026-10-21": 711
+      "2026-10-21": 1081
     }
   },
   {
@@ -490,7 +490,7 @@
     "timeDay": 464,
     "timeWeek": 446,
     "timeMonth": 1777,
-    "timeYear": 641,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2025-10-30": 17,
       "2025-11-26": 45,
@@ -540,17 +540,17 @@
     "url": "https://helpdesk.phlox.me",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.phlox.me.ico",
     "slug": "helpdesk-phlox",
-    "status": "down",
-    "uptime": "99.03%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "96.73%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "98.46%",
+    "status": "up",
+    "uptime": "98.99%",
+    "uptimeDay": "74.29%",
+    "uptimeWeek": "93.06%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "98.39%",
     "time": 732,
-    "timeDay": 578,
-    "timeWeek": 1015,
-    "timeMonth": 766,
-    "timeYear": 743,
+    "timeDay": 563,
+    "timeWeek": 971,
+    "timeMonth": 759,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2025-11-26": 17,
       "2026-01-21": 45,
@@ -573,7 +573,7 @@
       "2026-10-14": 37,
       "2026-10-15": 171,
       "2026-10-17": 158,
-      "2026-10-21": 1
+      "2026-10-21": 370
     }
   }
 ]
