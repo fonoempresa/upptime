@@ -4,17 +4,17 @@
     "url": "https://shop.fonotrip.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
-    "status": "down",
-    "uptime": "94.61%",
-    "uptimeDay": "30.51%",
+    "status": "up",
+    "uptime": "94.58%",
+    "uptimeDay": "30.53%",
     "uptimeWeek": "24.56%",
     "uptimeMonth": "29.42%",
-    "uptimeYear": "92.10%",
+    "uptimeYear": "92.05%",
     "time": 778,
-    "timeDay": 620,
+    "timeDay": 608,
     "timeWeek": 573,
-    "timeMonth": 841,
-    "timeYear": 785,
+    "timeMonth": 835,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2026-04-26": 41,
       "2026-04-30": 1273,
@@ -103,7 +103,7 @@
       "2026-10-19": 1037,
       "2026-10-20": 664,
       "2026-10-21": 1098,
-      "2026-10-22": 46
+      "2026-10-22": 286
     }
   },
   {
@@ -273,15 +273,15 @@
     "url": "https://msggw2.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
-    "status": "down",
-    "uptime": "93.78%",
-    "uptimeDay": "31.18%",
-    "uptimeWeek": "41.19%",
+    "status": "up",
+    "uptime": "93.76%",
+    "uptimeDay": "31.22%",
+    "uptimeWeek": "41.20%",
     "uptimeMonth": "30.01%",
-    "uptimeYear": "87.79%",
-    "time": 374,
-    "timeDay": 294,
-    "timeWeek": 299,
+    "uptimeYear": "87.74%",
+    "time": 373,
+    "timeDay": 302,
+    "timeWeek": 301,
     "timeMonth": 312,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -356,7 +356,7 @@
       "2026-10-19": 193,
       "2026-10-20": 655,
       "2026-10-21": 1089,
-      "2026-10-22": 42
+      "2026-10-22": 281
     }
   },
   {
@@ -364,16 +364,16 @@
     "url": "https://api2call.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
-    "status": "down",
-    "uptime": "70.68%",
-    "uptimeDay": "31.85%",
+    "status": "up",
+    "uptime": "70.59%",
+    "uptimeDay": "31.89%",
     "uptimeWeek": "25.53%",
     "uptimeMonth": "26.94%",
-    "uptimeYear": "70.68%",
+    "uptimeYear": "70.59%",
     "time": 360,
-    "timeDay": 288,
+    "timeDay": 298,
     "timeWeek": 335,
-    "timeMonth": 547,
+    "timeMonth": 541,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2026-08-11": 5,
@@ -431,7 +431,7 @@
       "2026-10-19": 1028,
       "2026-10-20": 645,
       "2026-10-21": 1081,
-      "2026-10-22": 37
+      "2026-10-22": 277
     }
   },
   {
