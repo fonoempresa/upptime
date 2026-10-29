@@ -4,19 +4,18 @@
     "url": "https://shop.fonotrip.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
-    "status": "up",
-    "uptime": "94.66%",
-    "uptimeDay": "49.24%",
-    "uptimeWeek": "45.33%",
-    "uptimeMonth": "30.16%",
-    "uptimeYear": "92.08%",
+    "status": "down",
+    "uptime": "94.68%",
+    "uptimeDay": "63.77%",
+    "uptimeWeek": "46.90%",
+    "uptimeMonth": "30.12%",
+    "uptimeYear": "92.10%",
     "time": 775,
-    "timeDay": 447,
-    "timeWeek": 474,
+    "timeDay": 464,
+    "timeWeek": 464,
     "timeMonth": 526,
     "timeYear": 776,
     "dailyMinutesDown": {
-      "2026-05-20": 116,
       "2026-05-24": 184,
       "2026-05-25": 86,
       "2026-06-04": 170,
@@ -98,7 +97,7 @@
       "2026-10-26": 358,
       "2026-10-28": 789,
       "2026-10-27": 1440,
-      "2026-10-29": 162
+      "2026-10-29": 182
     }
   },
   {
@@ -266,15 +265,15 @@
     "url": "https://msggw2.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
-    "status": "up",
+    "status": "down",
     "uptime": "93.36%",
-    "uptimeDay": "49.93%",
-    "uptimeWeek": "49.17%",
-    "uptimeMonth": "32.05%",
+    "uptimeDay": "64.75%",
+    "uptimeWeek": "50.78%",
+    "uptimeMonth": "32.02%",
     "uptimeYear": "86.80%",
     "time": 365,
-    "timeDay": 216,
-    "timeWeek": 271,
+    "timeDay": 229,
+    "timeWeek": 266,
     "timeMonth": 291,
     "timeYear": 347,
     "dailyMinutesDown": {
@@ -356,7 +355,7 @@
       "2026-10-28": 779,
       "2026-10-27": 1440,
       "2026-10-26": 258,
-      "2026-10-29": 162
+      "2026-10-29": 177
     }
   },
   {
@@ -364,15 +363,15 @@
     "url": "https://api2call.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
-    "status": "up",
-    "uptime": "69.50%",
-    "uptimeDay": "50.60%",
-    "uptimeWeek": "48.36%",
-    "uptimeMonth": "28.39%",
-    "uptimeYear": "69.50%",
+    "status": "down",
+    "uptime": "69.54%",
+    "uptimeDay": "65.76%",
+    "uptimeWeek": "50.01%",
+    "uptimeMonth": "28.37%",
+    "uptimeYear": "69.54%",
     "time": 353,
-    "timeDay": 208,
-    "timeWeek": 257,
+    "timeDay": 237,
+    "timeWeek": 250,
     "timeMonth": 289,
     "timeYear": 353,
     "dailyMinutesDown": {
@@ -438,7 +437,7 @@
       "2026-10-28": 769,
       "2026-10-27": 1440,
       "2026-10-26": 253,
-      "2026-10-29": 162
+      "2026-10-29": 172
     }
   },
   {
@@ -489,14 +488,14 @@
     "url": "https://helpdesk.magnustech.net",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.magnustech.net.ico",
     "slug": "helpdesk-magnustech",
-    "status": "up",
+    "status": "down",
     "uptime": "96.63%",
-    "uptimeDay": "51.28%",
-    "uptimeWeek": "48.29%",
-    "uptimeMonth": "87.23%",
+    "uptimeDay": "66.77%",
+    "uptimeWeek": "48.24%",
+    "uptimeMonth": "87.22%",
     "uptimeYear": "93.37%",
     "time": 590,
-    "timeDay": 485,
+    "timeDay": 547,
     "timeWeek": 438,
     "timeMonth": 537,
     "timeYear": 642,
@@ -549,7 +548,7 @@
       "2026-10-26": 343,
       "2026-10-28": 760,
       "2026-10-27": 1440,
-      "2026-10-29": 162
+      "2026-10-29": 168
     }
   },
   {
@@ -557,14 +556,14 @@
     "url": "https://helpdesk.phlox.me",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.phlox.me.ico",
     "slug": "helpdesk-phlox",
-    "status": "up",
+    "status": "down",
     "uptime": "98.50%",
-    "uptimeDay": "51.95%",
+    "uptimeDay": "67.78%",
     "uptimeWeek": "46.54%",
     "uptimeMonth": "86.02%",
     "uptimeYear": "97.36%",
     "time": 728,
-    "timeDay": 598,
+    "timeDay": 599,
     "timeWeek": 581,
     "timeMonth": 752,
     "timeYear": 738,
@@ -598,7 +597,7 @@
       "2026-10-26": 338,
       "2026-10-28": 750,
       "2026-10-27": 1440,
-      "2026-10-29": 162
+      "2026-10-29": 163
     }
   }
 ]
