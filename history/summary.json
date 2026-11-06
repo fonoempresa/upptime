@@ -4,19 +4,18 @@
     "url": "https://shop.fonotrip.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
-    "status": "up",
-    "uptime": "94.22%",
-    "uptimeDay": "54.55%",
-    "uptimeWeek": "53.19%",
-    "uptimeMonth": "34.27%",
-    "uptimeYear": "91.29%",
+    "status": "down",
+    "uptime": "94.24%",
+    "uptimeDay": "76.16%",
+    "uptimeWeek": "55.81%",
+    "uptimeMonth": "34.29%",
+    "uptimeYear": "91.31%",
     "time": 771,
-    "timeDay": 385,
+    "timeDay": 420,
     "timeWeek": 391,
     "timeMonth": 508,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2026-06-25": 156,
       "2026-06-28": 130,
       "2026-06-30": 65,
       "2026-07-01": 152,
@@ -97,7 +96,7 @@
       "2026-11-03": 326,
       "2026-11-04": 533,
       "2026-11-05": 898,
-      "2026-11-06": 21
+      "2026-11-06": 41
     }
   },
   {
@@ -265,21 +264,18 @@
     "url": "https://msggw2.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
-    "status": "up",
-    "uptime": "94.00%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "66.27%",
-    "uptimeMonth": "39.11%",
-    "uptimeYear": "87.69%",
+    "status": "down",
+    "uptime": "94.25%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "68.89%",
+    "uptimeMonth": "39.14%",
+    "uptimeYear": "88.21%",
     "time": 356,
     "timeDay": 146,
     "timeWeek": 194,
     "timeMonth": 266,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2026-05-12": 1018,
-      "2026-05-11": 1440,
-      "2026-05-10": 283,
       "2026-05-30": 56,
       "2026-06-13": 6,
       "2026-06-12": 76,
@@ -352,7 +348,7 @@
       "2026-11-02": 384,
       "2026-11-03": 321,
       "2026-11-04": 147,
-      "2026-11-06": 16
+      "2026-11-06": 31
     }
   },
   {
@@ -360,12 +356,12 @@
     "url": "https://api2call.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
-    "status": "up",
-    "uptime": "69.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "66.71%",
-    "uptimeMonth": "35.50%",
-    "uptimeYear": "69.29%",
+    "status": "down",
+    "uptime": "69.34%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "69.34%",
+    "uptimeMonth": "35.52%",
+    "uptimeYear": "69.34%",
     "time": 343,
     "timeDay": 190,
     "timeWeek": 178,
@@ -440,7 +436,8 @@
       "2026-11-01": 1024,
       "2026-11-02": 379,
       "2026-11-03": 316,
-      "2026-11-04": 147
+      "2026-11-04": 147,
+      "2026-11-06": 10
     }
   },
   {
@@ -493,14 +490,14 @@
     "url": "https://helpdesk.magnustech.net",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.magnustech.net.ico",
     "slug": "helpdesk-magnustech",
-    "status": "up",
+    "status": "down",
     "uptime": "96.18%",
-    "uptimeDay": "56.34%",
-    "uptimeWeek": "54.35%",
-    "uptimeMonth": "75.38%",
-    "uptimeYear": "92.39%",
+    "uptimeDay": "78.91%",
+    "uptimeWeek": "56.97%",
+    "uptimeMonth": "75.37%",
+    "uptimeYear": "92.38%",
     "time": 594,
-    "timeDay": 421,
+    "timeDay": 437,
     "timeWeek": 419,
     "timeMonth": 451,
     "timeYear": 642,
@@ -559,7 +556,8 @@
       "2026-11-02": 375,
       "2026-11-03": 311,
       "2026-11-04": 528,
-      "2026-11-05": 894
+      "2026-11-05": 894,
+      "2026-11-06": 6
     }
   },
   {
@@ -567,14 +565,14 @@
     "url": "https://helpdesk.phlox.me",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.phlox.me.ico",
     "slug": "helpdesk-phlox",
-    "status": "up",
+    "status": "down",
     "uptime": "98.04%",
-    "uptimeDay": "56.67%",
-    "uptimeWeek": "54.74%",
+    "uptimeDay": "79.59%",
+    "uptimeWeek": "57.36%",
     "uptimeMonth": "74.28%",
     "uptimeYear": "96.39%",
     "time": 725,
-    "timeDay": 502,
+    "timeDay": 550,
     "timeWeek": 515,
     "timeMonth": 683,
     "timeYear": 731,
@@ -615,7 +613,8 @@
       "2026-11-02": 370,
       "2026-11-03": 306,
       "2026-11-04": 524,
-      "2026-11-05": 889
+      "2026-11-05": 889,
+      "2026-11-06": 1
     }
   }
 ]
