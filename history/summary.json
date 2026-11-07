@@ -4,19 +4,18 @@
     "url": "https://shop.fonotrip.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
-    "status": "up",
-    "uptime": "94.17%",
-    "uptimeDay": "52.64%",
-    "uptimeWeek": "55.98%",
-    "uptimeMonth": "34.27%",
-    "uptimeYear": "91.20%",
+    "status": "down",
+    "uptime": "94.18%",
+    "uptimeDay": "51.27%",
+    "uptimeWeek": "57.58%",
+    "uptimeMonth": "34.54%",
+    "uptimeYear": "91.21%",
     "time": 772,
     "timeDay": 620,
-    "timeWeek": 428,
+    "timeWeek": 426,
     "timeMonth": 509,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2026-06-28": 67,
       "2026-06-30": 65,
       "2026-07-01": 152,
       "2026-07-03": 68,
@@ -97,7 +96,7 @@
       "2026-11-04": 533,
       "2026-11-05": 898,
       "2026-11-06": 545,
-      "2026-11-07": 157
+      "2026-11-07": 177
     }
   },
   {
@@ -265,20 +264,18 @@
     "url": "https://msggw2.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
-    "status": "up",
-    "uptime": "94.20%",
-    "uptimeDay": "53.32%",
-    "uptimeWeek": "69.06%",
-    "uptimeMonth": "39.75%",
-    "uptimeYear": "88.09%",
+    "status": "down",
+    "uptime": "94.21%",
+    "uptimeDay": "52.27%",
+    "uptimeWeek": "70.71%",
+    "uptimeMonth": "40.02%",
+    "uptimeYear": "88.11%",
     "time": 355,
     "timeDay": 311,
-    "timeWeek": 211,
+    "timeWeek": 219,
     "timeMonth": 267,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2026-06-13": 6,
-      "2026-06-12": 76,
       "2026-08-11": 5,
       "2026-08-10": 473,
       "2026-08-20": 22,
@@ -349,7 +346,7 @@
       "2026-11-03": 321,
       "2026-11-04": 147,
       "2026-11-06": 531,
-      "2026-11-07": 157
+      "2026-11-07": 172
     }
   },
   {
@@ -357,15 +354,15 @@
     "url": "https://api2call.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
-    "status": "up",
-    "uptime": "69.18%",
-    "uptimeDay": "53.99%",
-    "uptimeWeek": "69.51%",
-    "uptimeMonth": "36.15%",
-    "uptimeYear": "69.18%",
+    "status": "down",
+    "uptime": "69.22%",
+    "uptimeDay": "53.27%",
+    "uptimeWeek": "71.20%",
+    "uptimeMonth": "36.42%",
+    "uptimeYear": "69.22%",
     "time": 342,
     "timeDay": 240,
-    "timeWeek": 186,
+    "timeWeek": 191,
     "timeMonth": 265,
     "timeYear": 342,
     "dailyMinutesDown": {
@@ -439,7 +436,7 @@
       "2026-11-03": 316,
       "2026-11-04": 147,
       "2026-11-06": 506,
-      "2026-11-07": 157
+      "2026-11-07": 167
     }
   },
   {
@@ -492,15 +489,15 @@
     "url": "https://helpdesk.magnustech.net",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.magnustech.net.ico",
     "slug": "helpdesk-magnustech",
-    "status": "up",
-    "uptime": "96.12%",
-    "uptimeDay": "54.66%",
-    "uptimeWeek": "57.15%",
-    "uptimeMonth": "73.89%",
+    "status": "down",
+    "uptime": "96.13%",
+    "uptimeDay": "54.28%",
+    "uptimeWeek": "58.89%",
+    "uptimeMonth": "73.88%",
     "uptimeYear": "92.26%",
     "time": 598,
     "timeDay": 1570,
-    "timeWeek": 628,
+    "timeWeek": 660,
     "timeMonth": 505,
     "timeYear": 647,
     "dailyMinutesDown": {
@@ -560,7 +557,7 @@
       "2026-11-04": 528,
       "2026-11-05": 894,
       "2026-11-06": 496,
-      "2026-11-07": 157
+      "2026-11-07": 162
     }
   },
   {
@@ -568,15 +565,15 @@
     "url": "https://helpdesk.phlox.me",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.phlox.me.ico",
     "slug": "helpdesk-phlox",
-    "status": "up",
+    "status": "down",
     "uptime": "97.98%",
-    "uptimeDay": "55.33%",
-    "uptimeWeek": "57.53%",
+    "uptimeDay": "55.29%",
+    "uptimeWeek": "59.32%",
     "uptimeMonth": "72.81%",
     "uptimeYear": "96.26%",
     "time": 726,
     "timeDay": 829,
-    "timeWeek": 553,
+    "timeWeek": 559,
     "timeMonth": 687,
     "timeYear": 731,
     "dailyMinutesDown": {
@@ -618,7 +615,7 @@
       "2026-11-04": 524,
       "2026-11-05": 889,
       "2026-11-06": 486,
-      "2026-11-07": 157
+      "2026-11-07": 158
     }
   }
 ]
