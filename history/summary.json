@@ -6,10 +6,10 @@
     "slug": "shop-fonotrip",
     "status": "down",
     "uptime": "93.47%",
-    "uptimeDay": "24.69%",
+    "uptimeDay": "24.28%",
     "uptimeWeek": "39.78%",
     "uptimeMonth": "40.32%",
-    "uptimeYear": "89.99%",
+    "uptimeYear": "89.98%",
     "time": 781,
     "timeDay": 614,
     "timeWeek": 1208,
@@ -91,7 +91,7 @@
       "2026-11-13": 595,
       "2026-11-14": 686,
       "2026-11-15": 1123,
-      "2026-11-16": 108
+      "2026-11-16": 165
     }
   },
   {
@@ -260,10 +260,10 @@
     "slug": "msgg-2",
     "status": "down",
     "uptime": "94.13%",
-    "uptimeDay": "25.67%",
+    "uptimeDay": "24.95%",
     "uptimeWeek": "40.36%",
     "uptimeMonth": "48.27%",
-    "uptimeYear": "87.81%",
+    "uptimeYear": "87.80%",
     "time": 353,
     "timeDay": 302,
     "timeWeek": 298,
@@ -340,7 +340,7 @@
       "2026-11-13": 585,
       "2026-11-14": 671,
       "2026-11-15": 1113,
-      "2026-11-16": 104
+      "2026-11-16": 161
     }
   },
   {
@@ -349,11 +349,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
     "status": "down",
-    "uptime": "70.23%",
-    "uptimeDay": "26.68%",
+    "uptime": "70.21%",
+    "uptimeDay": "25.62%",
     "uptimeWeek": "41.04%",
     "uptimeMonth": "44.82%",
-    "uptimeYear": "70.23%",
+    "uptimeYear": "70.21%",
     "time": 337,
     "timeDay": 270,
     "timeWeek": 286,
@@ -430,7 +430,7 @@
       "2026-11-13": 576,
       "2026-11-14": 656,
       "2026-11-15": 1104,
-      "2026-11-16": 99
+      "2026-11-16": 156
     }
   },
   {
@@ -485,10 +485,10 @@
     "slug": "helpdesk-magnustech",
     "status": "down",
     "uptime": "95.45%",
-    "uptimeDay": "27.69%",
+    "uptimeDay": "26.30%",
     "uptimeWeek": "41.57%",
-    "uptimeMonth": "56.46%",
-    "uptimeYear": "90.77%",
+    "uptimeMonth": "56.33%",
+    "uptimeYear": "90.76%",
     "time": 608,
     "timeDay": 414,
     "timeWeek": 641,
@@ -560,7 +560,7 @@
       "2026-11-13": 566,
       "2026-11-14": 642,
       "2026-11-15": 1095,
-      "2026-11-16": 94
+      "2026-11-16": 152
     }
   },
   {
@@ -572,8 +572,8 @@
     "uptime": "97.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "24.94%",
-    "uptimeMonth": "51.58%",
-    "uptimeYear": "94.45%",
+    "uptimeMonth": "51.45%",
+    "uptimeYear": "94.44%",
     "time": 731,
     "timeDay": 0,
     "timeWeek": 749,
@@ -625,7 +625,7 @@
       "2026-11-11": 800,
       "2026-11-12": 982,
       "2026-11-13": 1025,
-      "2026-11-16": 182,
+      "2026-11-16": 239,
       "2026-11-15": 1440,
       "2026-11-14": 1440
     }
