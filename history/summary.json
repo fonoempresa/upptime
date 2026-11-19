@@ -4,17 +4,17 @@
     "url": "https://shop.fonotrip.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.fonotrip.com.ico",
     "slug": "shop-fonotrip",
-    "status": "down",
-    "uptime": "93.42%",
-    "uptimeDay": "58.64%",
+    "status": "up",
+    "uptime": "93.36%",
+    "uptimeDay": "42.24%",
     "uptimeWeek": "55.27%",
     "uptimeMonth": "46.77%",
-    "uptimeYear": "89.86%",
+    "uptimeYear": "89.76%",
     "time": 783,
-    "timeDay": 764,
-    "timeWeek": 600,
-    "timeMonth": 667,
-    "timeYear": 766,
+    "timeDay": 562,
+    "timeWeek": 581,
+    "timeMonth": 661,
+    "timeYear": 765,
     "dailyMinutesDown": {
       "2026-08-05": 93,
       "2026-08-08": 57,
@@ -91,7 +91,7 @@
       "2026-11-16": 426,
       "2026-11-17": 170,
       "2026-11-18": 528,
-      "2026-11-19": 68
+      "2026-11-19": 584
     }
   },
   {
@@ -258,15 +258,15 @@
     "url": "https://msggw2.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/msggw2.fonoempresa.com.ico",
     "slug": "msgg-2",
-    "status": "down",
-    "uptime": "94.11%",
-    "uptimeDay": "59.30%",
+    "status": "up",
+    "uptime": "94.07%",
+    "uptimeDay": "42.60%",
     "uptimeWeek": "55.80%",
-    "uptimeMonth": "52.20%",
-    "uptimeYear": "87.72%",
+    "uptimeMonth": "51.02%",
+    "uptimeYear": "87.62%",
     "time": 353,
-    "timeDay": 288,
-    "timeWeek": 296,
+    "timeDay": 280,
+    "timeWeek": 294,
     "timeMonth": 272,
     "timeYear": 340,
     "dailyMinutesDown": {
@@ -342,7 +342,7 @@
       "2026-11-16": 422,
       "2026-11-17": 165,
       "2026-11-18": 523,
-      "2026-11-19": 63
+      "2026-11-19": 579
     }
   },
   {
@@ -350,17 +350,17 @@
     "url": "https://api2call.fonoempresa.com",
     "icon": "https://icons.duckduckgo.com/ip3/api2call.fonoempresa.com.ico",
     "slug": "api-2-call",
-    "status": "down",
-    "uptime": "70.59%",
-    "uptimeDay": "59.97%",
-    "uptimeWeek": "56.32%",
+    "status": "up",
+    "uptime": "70.43%",
+    "uptimeDay": "42.94%",
+    "uptimeWeek": "56.33%",
     "uptimeMonth": "51.27%",
-    "uptimeYear": "70.59%",
-    "time": 336,
-    "timeDay": 267,
-    "timeWeek": 266,
+    "uptimeYear": "70.43%",
+    "time": 335,
+    "timeDay": 255,
+    "timeWeek": 264,
     "timeMonth": 256,
-    "timeYear": 336,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2026-09-07": 217,
       "2026-09-08": 833,
@@ -434,7 +434,7 @@
       "2026-11-16": 418,
       "2026-11-17": 160,
       "2026-11-18": 518,
-      "2026-11-19": 58
+      "2026-11-19": 574
     }
   },
   {
@@ -487,17 +487,17 @@
     "url": "https://helpdesk.magnustech.net",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.magnustech.net.ico",
     "slug": "helpdesk-magnustech",
-    "status": "down",
-    "uptime": "95.37%",
-    "uptimeDay": "60.64%",
-    "uptimeWeek": "56.85%",
-    "uptimeMonth": "54.45%",
-    "uptimeYear": "90.57%",
+    "status": "up",
+    "uptime": "95.33%",
+    "uptimeDay": "43.27%",
+    "uptimeWeek": "56.86%",
+    "uptimeMonth": "53.28%",
+    "uptimeYear": "90.47%",
     "time": 609,
-    "timeDay": 460,
-    "timeWeek": 582,
-    "timeMonth": 531,
-    "timeYear": 649,
+    "timeDay": 404,
+    "timeWeek": 564,
+    "timeMonth": 527,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2025-11-26": 45,
       "2025-12-18": 28,
@@ -567,7 +567,7 @@
       "2026-11-16": 413,
       "2026-11-17": 155,
       "2026-11-18": 513,
-      "2026-11-19": 54
+      "2026-11-19": 569
     }
   },
   {
@@ -575,17 +575,17 @@
     "url": "https://helpdesk.phlox.me",
     "icon": "https://icons.duckduckgo.com/ip3/helpdesk.phlox.me.ico",
     "slug": "helpdesk-phlox",
-    "status": "down",
-    "uptime": "97.05%",
-    "uptimeDay": "61.31%",
-    "uptimeWeek": "40.23%",
-    "uptimeMonth": "49.60%",
-    "uptimeYear": "94.26%",
-    "time": 732,
-    "timeDay": 714,
-    "timeWeek": 693,
-    "timeMonth": 609,
-    "timeYear": 729,
+    "status": "up",
+    "uptime": "97.01%",
+    "uptimeDay": "43.61%",
+    "uptimeWeek": "40.24%",
+    "uptimeMonth": "48.43%",
+    "uptimeYear": "94.16%",
+    "time": 731,
+    "timeDay": 677,
+    "timeWeek": 687,
+    "timeMonth": 610,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2025-11-26": 17,
       "2026-01-21": 45,
@@ -637,7 +637,7 @@
       "2026-11-14": 1440,
       "2026-11-17": 150,
       "2026-11-18": 508,
-      "2026-11-19": 49
+      "2026-11-19": 564
     }
   }
 ]
